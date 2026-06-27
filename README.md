@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaniyaParab/DSA/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaniyaParab/DSA/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
