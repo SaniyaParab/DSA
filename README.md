@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SaniyaParab/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
