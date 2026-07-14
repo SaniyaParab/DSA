@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SaniyaParab/DSA/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SaniyaParab/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaniyaParab/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
