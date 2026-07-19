@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SaniyaParab/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaniyaParab/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SaniyaParab/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SaniyaParab/DSA/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaniyaParab/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaniyaParab/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SaniyaParab/DSA/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
