@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SaniyaParab/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SaniyaParab/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SaniyaParab/DSA/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/SaniyaParab/DSA/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaniyaParab/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaniyaParab/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaniyaParab/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaniyaParab/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SaniyaParab/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SaniyaParab/DSA/tree/master/0260-single-number-iii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaniyaParab/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
