@@ -12,17 +12,7 @@ class Solution {
                 {
                     first = i;
                 }
-            }
-        }
-
-        for(int j = nums.length - 1; j >= 0; j--)
-        {
-            if(nums[j] == target)
-            {
-                if(last == -1)
-                {
-                    last = j;
-                }
+                last=i;
             }
         }
 
