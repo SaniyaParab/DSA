@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SaniyaParab/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SaniyaParab/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SaniyaParab/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaniyaParab/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SaniyaParab/DSA/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/SaniyaParab/DSA/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaniyaParab/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaniyaParab/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaniyaParab/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
