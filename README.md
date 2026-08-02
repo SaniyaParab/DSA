@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SaniyaParab/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3813-vowel-consonant-score](https://github.com/SaniyaParab/DSA/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaniyaParab/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaniyaParab/DSA/tree/master/0058-length-of-last-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SaniyaParab/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3813-vowel-consonant-score](https://github.com/SaniyaParab/DSA/tree/master/3813-vowel-consonant-score) |
 ## Counting Sort
 |  |
 | ------- |
