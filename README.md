@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SaniyaParab/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaniyaParab/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaniyaParab/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaniyaParab/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SaniyaParab/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaniyaParab/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaniyaParab/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaniyaParab/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaniyaParab/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/SaniyaParab/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaniyaParab/DSA/tree/master/0344-reverse-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SaniyaParab/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3813-vowel-consonant-score](https://github.com/SaniyaParab/DSA/tree/master/3813-vowel-consonant-score) |
