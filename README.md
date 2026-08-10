@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SaniyaParab/DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/SaniyaParab/DSA/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SaniyaParab/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaniyaParab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SaniyaParab/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SaniyaParab/DSA/tree/master/1672-richest-customer-wealth) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SaniyaParab/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SaniyaParab/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/SaniyaParab/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/SaniyaParab/DSA/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaniyaParab/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
