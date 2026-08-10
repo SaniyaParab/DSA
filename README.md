@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaniyaParab/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SaniyaParab/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaniyaParab/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SaniyaParab/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaniyaParab/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaniyaParab/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/SaniyaParab/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/SaniyaParab/DSA/tree/master/2469-convert-the-temperature) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SaniyaParab/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaniyaParab/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
