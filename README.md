@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaniyaParab/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/SaniyaParab/DSA/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/SaniyaParab/DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/SaniyaParab/DSA/tree/master/1051-height-checker) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaniyaParab/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaniyaParab/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/SaniyaParab/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaniyaParab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/SaniyaParab/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaniyaParab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
