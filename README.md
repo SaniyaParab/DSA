@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SaniyaParab/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SaniyaParab/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaniyaParab/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/SaniyaParab/DSA/tree/master/0541-reverse-string-ii) |
 | [2540-minimum-common-value](https://github.com/SaniyaParab/DSA/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaniyaParab/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SaniyaParab/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaniyaParab/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/SaniyaParab/DSA/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/SaniyaParab/DSA/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/SaniyaParab/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/SaniyaParab/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SaniyaParab/DSA/tree/master/0771-jewels-and-stones) |
